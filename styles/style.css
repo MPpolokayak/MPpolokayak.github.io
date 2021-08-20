@@ -1,0 +1,40 @@
+html {
+    font-size: 12px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Raleway', sans-serif;/* this should be the rest of the output you got from Google fonts */
+  }
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #002E7E;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #B4CEE8;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 10px black;
+  }
+
+  img {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+  }
+ 
